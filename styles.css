@@ -1,0 +1,44 @@
+
+.logo{
+width:27%;
+height:50%;
+padding-left: 3.3rem;
+max-height: none;
+margin-left: -10px;
+margin-top: -15px;
+}
+.button1{
+  background-color: #EA782F;
+  margin-left: 85%;
+  margin-top: -5.5%;
+  color: white;
+  padding:1% 2% 1% 2%;
+  font-weight: bold;
+}
+.header-back {
+    background-image: linear-gradient(to right ,rgba(234, 121, 48), rgba(235, 211, 24),rgba(8, 173, 226));
+    width: 100%;
+    text-align: center;
+    padding: 0.5% 2% 0.5% 2%;
+    font-weight: bolder;
+    color: #FFFFFF;
+    min-height: -40px
+    padding-y: 20px;
+}
+.page1{
+  width:100%;
+  margin-top: 1.2%;
+}
+.page2{
+  width:100%;
+  margin-top: -15px;
+}
+.button2{
+  background-color: #EA782F;
+  margin-left: 25%;
+  margin-top: 2%;
+  padding-right: 40%;
+  color: white;
+  padding:1% 2% 1% 2%;
+  font-weight: bold;
+}
